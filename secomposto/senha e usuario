@@ -1,0 +1,31 @@
+programa {
+  funcao inicio() {
+    
+    //Declaração
+    cadeia usuario, senha,
+    
+
+    //Entrada 
+    escreva("Escreva seu usuario: ")
+    leia(usuario)
+    se(usuario == "victor")
+    {
+    escreva("Digite a senha: ")
+    leia(senha)
+    se (senha == "victor100")
+    escreva("\nAcesso efetuado com sucesso! ")
+    senao
+    escreva("\nSenha incorreta! ")
+    }
+    senao
+    escreva("\nUsuario incorretp! ")
+    
+
+    
+
+
+
+
+
+  }
+}
