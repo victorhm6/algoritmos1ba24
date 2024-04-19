@@ -24,3 +24,9 @@ Passo a passo de instalação
 7. Inicie a instalação: No instalador, você terá a opção de adicionar o Python ao PATH do sistema. É recomendável selecionar essa opção para facilitar o uso do Python a partir da linha de comando. Em seguida, clique em "Install Now" para iniciar o processo de instalação.
 8. Aguarde a conclusão da instalação: O instalador irá configurar o Python em seu sistema. Aguarde até que a instalação seja concluída.
 9. Verifique a instalação: Após a conclusão da instalação, você pode verificar se o Python foi instalado corretamente abrindo o prompt de comando e digitando python --version. Isso deve exibir a versão do Python que foi instalada.
+
+Como configurar virtuallanv pelo python:
+1.Primeiro, certifique-se de ter o Virtualenv instalado em seu sistema. Caso não tenha, você pode instalá-lo usando o comando pip install virtualenv.
+2.Após a instalação, crie um novo diretório para o seu projeto e navegue até ele usando o terminal ou prompt de comando.
+3. Dentro do diretório do projeto, crie um novo ambiente virtual usando o comando virtualenv nome_do_ambiente. Substitua “nome_do_ambiente” pelo nome que deseja dar ao seu ambiente virtual.
+4. Após a criação do ambiente virtual, ative-o utilizando o comando apropriado para o sistema operacional em que você está trabalhando.
