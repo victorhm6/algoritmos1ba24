@@ -9,3 +9,11 @@ O que é Python
 Python é uma linguagem de programação de alto nível, interpretada, de propósito geral e multiparadigma. Foi criada por Guido van Rossum e lançada pela primeira vez em 1991.
  Python se destaca por sua sintaxe limpa e legível, o que o torna fácil de aprender e usar. É conhecida por sua versatilidade e é amplamente utilizada em uma variedade de 
 campos, como desenvolvimento web, ciência de dados, automação de tarefas, inteligência artificial, entre outros.
+
+Terceiro commit:
+Passo a passo fazer o download
+1. Acesse o site oficial do Python: Abra um navegador da web e vá para o site oficial do Python em https://www.python.org/.
+2. Baixe o instalador: No site, clique no link "Downloads" no menu principal.
+3. Selecione a versão do Python: Dependendo da sua preferência, você pode escolher entre a versão mais recente do Python 3.x ou uma versão mais antiga do Python 2.x. Recomenda-se usar a versão mais recente do Python 3.x para novos projetos.
+4. Escolha o instalador adequado para o seu sistema operacional: Se você estiver usando um sistema operacional Windows de 64 bits, provavelmente desejará baixar o instalador "Windows x86-64 executable installer". Se você estiver usando um sistema operacional Windows de 32 bits, baixe o instalador "Windows x86 executable installer".
+5. Baixe o instalador: Clique no link de download apropriado para iniciar o download do instalador do Python.
