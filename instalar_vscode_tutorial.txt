@@ -2,3 +2,9 @@ Iniciando Tutorial vscode
 
 O que é vscode
 O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+
+Passo a passo para download
+1. Vá para o site oficial do Visual Studio Code: https://code.visualstudio.com/
+2. Clique no botão de download, que geralmente é bem visível na página inicial.
+3. Escolha a versão adequada para o seu sistema operacional (Windows, macOS, Linux).
+4. Após o download ser concluído, abra o instalador.
