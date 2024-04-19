@@ -8,3 +8,12 @@ Passo a passo para download
 2. Clique no botão de download, que geralmente é bem visível na página inicial.
 3. Escolha a versão adequada para o seu sistema operacional (Windows, macOS, Linux).
 4. Após o download ser concluído, abra o instalador.
+
+Passo a passo para instalar
+1. Após baixar o arquivo de instalação do site oficial, clique duas vezes nele para iniciar o processo de instalação.
+2. Siga as instruções do assistente de instalação. Em geral, você só precisa clicar em "Next" (Próximo) algumas vezes.
+3. Escolha o local onde deseja instalar o Visual Studio Code ou simplesmente deixe o padrão.
+4. Selecione as opções adicionais, como criar atalhos na área de trabalho ou no menu Iniciar, conforme desejado.
+5. Clique em "Install" (Instalar) para iniciar a instalação.
+6. Aguarde até que a instalação seja concluída. Isso geralmente leva apenas alguns minutos.
+7. Quando a instalação estiver completa, clique em "Finish" (Concluir) para sair do assistente de instalação.
